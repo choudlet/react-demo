@@ -1,5 +1,5 @@
 import React, {PropTypes} from 'react';
-
+/*eslint-disable react/no-did-mount-set-state*/
 class LoadingDots extends React.Component {
   constructor(props, context) {
     super(props,context);
